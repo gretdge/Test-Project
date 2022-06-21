@@ -5806,3 +5806,37 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3819.870754 seconds.
+  path: Assets/Materials/BlackMaterial.mat
+  artifactKey: Guid(bfa59e8cb05348d4fb94e55967ae3029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BlackMaterial.mat using Guid(bfa59e8cb05348d4fb94e55967ae3029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54c01f7a875b168789087a23194365c') in 0.136354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.781012 seconds.
+  path: Assets/Prefabs/Bullet.prefab
+  artifactKey: Guid(083f947e78dea45449561be17f82f239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bullet.prefab using Guid(083f947e78dea45449561be17f82f239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b209b1db2ead82e69139fbdf4c9e5de0') in 0.031905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(98b64ecf554c2fe419e056fa366623c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(98b64ecf554c2fe419e056fa366623c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9779c4b754d9a1e23bdd3b0ddba522e') in 0.016422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Prefabs/Canvas.prefab
+  artifactKey: Guid(03fc36a4b17539a41a53d62d6486e17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Canvas.prefab using Guid(03fc36a4b17539a41a53d62d6486e17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ae5d9d8881b887aaa9267ebac328c42') in 0.014640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Prefabs/Enemy.prefab
+  artifactKey: Guid(a8bfb374f263bd94ab0d0a7787f276ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy.prefab using Guid(a8bfb374f263bd94ab0d0a7787f276ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4950cda72f3e834244d986cc63351a7') in 0.019835 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

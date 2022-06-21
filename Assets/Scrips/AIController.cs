@@ -29,8 +29,9 @@ public class AIController : MonoBehaviour
     private void Start()
     {
         m_controller = GetComponent<CharacterController>();
-        m_player = GameObject.FindWithTag("Player").gameObject.transform;
         m_agent = GetComponent<NavMeshAgent>();
+
+        m_player = GameObject.FindWithTag("Player").gameObject.transform;
     }
 
     private void Update()

@@ -7,16 +7,9 @@ public class PlayerController : MonoBehaviour
     private Vector3 m_directionMovement;
     private float m_directionRotate;
 
-    [SerializeField] private GameManager m_gameManager;
-
     private void Start()
     {
         m_controller = GetComponent<CharacterController>();
-
-        if (m_controller == null)
-        {
-            Debug.Assert(false, "m_movement == null");
-        }
     }
 
     private void Update()
